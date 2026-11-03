@@ -1,0 +1,13 @@
+COOPERATIVA DE AHORRO Y CREDITO - Trabajo 1, Ejercicio 2
+
+Requisito: tener Java 11 o superior instalado (comprobar con: java -version).
+
+Windows  : doble clic en ejecutar.bat (programa) o pruebas.bat (casos de prueba)
+Linux/Mac: ./ejecutar.sh (programa) o ./pruebas.sh
+
+O desde una terminal en esta carpeta:
+  java -jar cooperativa.jar
+  java -cp cooperativa.jar coop.Pruebas
+
+Los datos se guardan en la carpeta "datos" (CSV). El codigo fuente esta en "src".
+Mas detalles y diagrama de clases en README.md
